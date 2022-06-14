@@ -36,3 +36,6 @@ encoding on k-space data. (d) The image obtained by applying the inverse Fourier
 ## PI reconstruction results
 <div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-4.png" >  </div>
 PI reconstruction results by ESPIRiT, LINDBERG, EBMRec, SAKE, WKGM and SVD-WKGM on T2 Transversal Brain image at R=10 using 2D Poisson sampling mask. The intensity of residual maps is five times magnify.
+
+# Convergence curves of WKGM and SVD-WKGM in terms of PSNR versus the iteration number when reconstructing the brain image from 1/3 sampled data under 2D Poisson sampling pattern.
+<div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-5.png" >  </div>
