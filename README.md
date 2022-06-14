@@ -33,6 +33,6 @@ Top line: Prior learning is conducted in weight-k-space domain at a single coil.
 (a) The reference k-space data and its amplitude values. (b) The weight-k-space data and its amplitude values. (c) The image obtained by applying the inverse Fourier
 encoding on k-space data. (d) The image obtained by applying the inverse Fourier encoding on weight-k-space data.
 
-## PI reconstruction results by ESPIRiT, LINDBERG, EBMRec, SAKE, WKGM and SVD-WKGM on T2 Transversal Brain image at R=10 using 2D Poisson sampling mask. The intensity of residual maps is five times magnify.
+## PI reconstruction results
 <div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-4.png" >  </div>
-
+PI reconstruction results by ESPIRiT, LINDBERG, EBMRec, SAKE, WKGM and SVD-WKGM on T2 Transversal Brain image at R=10 using 2D Poisson sampling mask. The intensity of residual maps is five times magnify.
