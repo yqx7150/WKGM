@@ -1,5 +1,5 @@
 # SVD_WKGM
-**Paper**: WKGM: WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction
+**Paper**: WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction
 
 **Authors**: Zongjiang Tu, Die Liu, Xiaoqing Wang, Chen Jiang, Minghui Zhang, Shanshan Wang, Qiegen Liu*, Dong Liang*
 
@@ -14,11 +14,10 @@ Deep learning based parallel Imaging (PI) has made great progresses in recent ye
 ```bash
 python main.py --config=configs/ve/SIAT_kdata_ncsnpp.py --workdir=exp --mode=train --eval_folder=result
 ```
-
 ## Test Demo
 ```bash
 python demo_svdWKGM.py
 ```
-
 ## Checkpoints
 We provide pretrained checkpoints. You can download pretrained models from [Google Drive] (https://drive.google.com/file/d/1DmRTPmc_xYaVO3pX1R_CE0ZpiBRFkCwG/view?usp=sharing)
+## Graphical representation
