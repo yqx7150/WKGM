@@ -24,3 +24,7 @@ We provide pretrained checkpoints. You can download pretrained models from [Goog
 ## Pipeline of the prior learning process and PI reconstruction procedure in WKGM
 <div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-1.png" >  </div>
 Top line: Prior learning is conducted in weight-k-space domain at a single coil. Bottom line: PI reconstruction is conducted in iterative scheme that alternates between WKGM update and other traditional iterative methods.
+## Illustration of the forward and reverse processes of k-space data.
+<div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-2.png" >  </div>
+
+
