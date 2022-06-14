@@ -28,7 +28,7 @@ Top line: Prior learning is conducted in weight-k-space domain at a single coil.
 ## Illustration of the forward and reverse processes of k-space data.
 <div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-2.png" >  </div>
 
-## Visual comparison of the amplitude images obtained from the k-space domain and weight-k-space domain, respectively.
+##  K-space domain and weight-k-space domain.
 <div align="center"><img src="https://github.com/yqx7150/SVD-WKGM/blob/main/Fig-3.png" >  </div>
 (a) The reference k-space data and its amplitude values. (b) The weight-k-space data and its amplitude values. (c) The image obtained by applying the inverse Fourier
 encoding on k-space data. (d) The image obtained by applying the inverse Fourier encoding on weight-k-space data.
