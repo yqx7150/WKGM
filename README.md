@@ -1,5 +1,6 @@
 # SVD_WKGM
 **Paper**: WKGM: WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction
+
 **Authors**: Zongjiang Tu, Die Liu, Xiaoqing Wang, Chen Jiang, Minghui Zhang, Shanshan Wang, Qiegen Liu*, Dong Liang*
 
 Date : June-14-2022  
