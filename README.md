@@ -44,3 +44,17 @@ Convergence curves of WKGM and SVD-WKGM in terms of PSNR versus the iteration nu
 
 ## Acknowledgement
 The implementation is based on this repository: https://github.com/yang-song/score_sde_pytorch.
+
+## Other Related Projects    
+* Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2212/2212.05503.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LR-KGM)     
+
+* Universal Generative Modeling in Dual-domain for Dynamic MR Imaging  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/2212/2212.07599.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DD-UGM) 
+
+* One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2208.07181)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
+
+* Diffusion Models for Medical Imaging
+[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)  
+   
