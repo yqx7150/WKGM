@@ -2,6 +2,8 @@
 **Paper**: WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction
 
 **Authors**: Zongjiang Tu, Die Liu, Xiaoqing Wang, Chen Jiang, Minghui Zhang, Shanshan Wang, Qiegen Liu*, Dong Liang*
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.5005       
+NMR in Biomedicine, e5011       
 
 Date : June-14-2022  
 Version : 1.0  
